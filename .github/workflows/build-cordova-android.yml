@@ -3,7 +3,7 @@ name: Build Cordova Android APK
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ add/cordova-project ]
   workflow_dispatch:
 
 jobs:
